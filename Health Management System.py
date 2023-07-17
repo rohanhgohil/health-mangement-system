@@ -1,11 +1,11 @@
 # Health Management System
 
-# to get the date and time
+# To get the date and time
 def getdate():
     import datetime
     return datetime.datetime.now()
 
-# dictionary for the people
+# Dictionary for the people
 dic = {
     1:"rahul",
     2:"raj",
